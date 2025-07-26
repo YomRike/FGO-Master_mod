@@ -18,7 +18,7 @@ public class GraceUnexpectedBirth extends fgoNormalCard {
 
     public GraceUnexpectedBirth() {
         super(ID, IMG_PATH, COST, CardType.SKILL, CardRarity.UNCOMMON, CardTarget.SELF);
-        this.baseBlock = 10;
+        this.baseBlock = 11;
     }
 
     @Override
