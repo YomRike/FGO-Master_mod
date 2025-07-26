@@ -1,0 +1,155 @@
+{
+  "fatemaster:MidsummerNightDream": {
+    "TEXT": [
+      "Immune"
+    ]
+  },
+  "fatemaster:PackMainMenuUI": {
+    "TEXT": [
+      "Mystic Codes or...",
+      "Please make your choice. Note that it will be reset when you exit the game.",
+      "Chaldea(BASIC)",
+      "Halloween Royalty",
+      "Wastehole of the Unsalvageable",
+      "Misaki High School Uniform",
+      "New Year's Attire",
+      "White Christmas",
+      "Summer Street",
+      "Sōya High School Uniform",
+      "True Ether Chaldea Uniform",
+      "Ceremonial New Year",
+      "Tropical Summer",
+      "Fragment of Year 2004",
+      "Memoria of the Far Side of the Moon",
+      "Memoria of Lunar Mare",
+      "Brilliant Summer",
+      "Royal Brand",
+      "Anniversary Blonde",
+      "Chaldea Pathfinder",
+      "Winter Casual",
+      "Arcueid Brunestud ?"
+    ]
+  },
+  "fatemaster:SpireHeartText": {
+    "TEXT": [
+      "NL You use all the Command Spells...",
+      "Master",
+      "Wake up from your sleep again, this time you are at the bottom of the tower.",
+      "the Master",
+      "The Master",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~stranger,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  },
+  "fatemaster:SpireHeartMaleText": {
+    "TEXT": [
+      "NL Countless Heroic Spirits!! HEED MY SUMMON!!",
+      "Fujimaru Ritsuka",
+      "The Pruned Spire.",
+      "Fujimaru Ritsuka",
+      "Fujimaru Ritsuka",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~stranger,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  },
+  "fatemaster:NPText": {
+    "TEXT": [
+      "NP",
+      "Whenever you are attacked or play a card, gain #yNP.",
+      "Choose a Noble Phantasm into your hand."
+    ]
+  },
+  "fatemaster:BlessedScionAction": {
+    "TEXT": [
+      "Copy"
+    ]
+  },
+  "fatemaster:CurtainoftheNightAction": {
+    "TEXT": [
+      "put on top of your draw pile."
+    ]
+  },
+  "fatemaster:NobleCardTabNamePatch": {
+    "TEXT": [
+      "Noble Phantasm",
+      "Fgo Event"
+    ]
+  },
+  "fatemaster:PictureSelectFgoPatch": {
+    "TEXT": [
+      "Light-Cross",
+      "Starry Trail",
+      "ID: 82330518",
+      "ID: 117839244"
+    ]
+  },
+  "fatemaster:AbsNoblePhantasmCard": {
+    "TEXT": [
+      "Insufficient NP gauge."
+    ]
+  },
+  "fatemaster:InSonorousEffectCard": {
+    "TEXT": [
+      "Blessings of the Knights of the Round Table (first 6 Num)",
+      "Mashu's Assistance"
+    ]
+  },
+  "fatemaster:AlterOption": {
+    "TEXT": [
+      "Obtain Noble",
+      "[Free Action] Choose obtain a Noble Phantasm card."
+    ]
+  },
+  "fatemaster:AlterOptionEffect": {
+    "TEXT": [
+      "Choose obtain a Noble Phantasm card."
+    ]
+  },
+  "fatemaster:ChooseSkinAction": {
+    "TEXT": [
+      "Switch your skin."
+    ]
+  },
+  "fatemaster:TheOneWhoSawItAllAction": {
+    "TEXT": [
+      "Choose a card to copy to your hand.",
+      "Choose ",
+      " cards to copy to your hand."
+    ]
+  },
+  "fatemaster:startCommandSpellEffect": {
+    "TEXT": [
+      "Start Relic Additional: Command Spell.",
+      "Start Relic Additional: Decisive Battle Uniform.",
+      "Gain an additional 'Blessing of the Round Table Knights' on the first six floors."
+    ]
+  },
+  "fatemaster:MagicBulletModifier": {
+    "TEXT": [
+      "Magic Bullet",
+      "#pThe #pnext #ptime #pthis #pcard #pis #pplayed, #pdeal",
+      " #pdamage #pto #pAll #penemies."
+    ]
+  },
+  "fatemaster:BlackSunModifier": {
+    "TEXT": [
+      " NL [#e998eb]Gain[] [#e998eb]",
+      "[] [#e998eb]Vigor.[]"
+    ]
+  },
+  "fatemaster:FgoCardPoolTopPanelItem": {
+    "TEXT": [
+      "Current Card Pool",
+      "Unlike the alternate you, a portion of your card pool has been refreshed with different cards.",
+      "Current card pool"
+    ]
+  },
+  "fatemaster:ForeverDistantAction": {
+    "TEXT": [
+      "convert to Excalibur"
+    ]
+  },
+  "fatemaster:TrifasAction": {
+    "TEXT": [
+      "convert to random Attack or Skill"
+    ]
+  }
+}

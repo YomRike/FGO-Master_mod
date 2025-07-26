@@ -1,0 +1,121 @@
+[
+  {
+    "NAMES": [
+      "np"
+    ],
+    "DESCRIPTION": "To obtain a #yNoble #yPhantasm card, at least #b100% NP is required."
+  },
+  {
+    "NAMES": [
+      "noble phantasm",
+      "noble_phantasm",
+      "np"
+    ],
+    "DESCRIPTION": "Noble Phantasm cards #yRetain and #yExhaust are played."
+  },
+  {
+    "NAMES": [
+      "guts"
+    ],
+    "DESCRIPTION": "When you would die, heal HP instead."
+  },
+  {
+    "NAMES": [
+      "evil curse",
+      "evil_curse"
+    ],
+    "DESCRIPTION": "At the start of turn, lose HP equal to the number of Evil Curse."
+  },
+  {
+    "NAMES": [
+      "combust"
+    ],
+    "DESCRIPTION": "Combusted creatures lose HP at the start of their turn."
+  },
+  {
+    "NAMES": [
+      "sunlight"
+    ],
+    "DESCRIPTION": "At the end of your turn, double your #yVigor."
+  },
+  {
+    "NAMES": [
+      "waterside"
+    ],
+    "DESCRIPTION": "At the start of your turn, gain #b5 #yBlock."
+  },
+  {
+    "NAMES": [
+      "defense down",
+      "defense_down"
+    ],
+    "DESCRIPTION": "Additional damage taken. At the end of its turn, reduce #b1."
+  },
+  {
+    "NAMES": [
+      "evasion"
+    ],
+    "DESCRIPTION": "Prevent you would attacked."
+  },
+  {
+    "NAMES": [
+      "invincibility"
+    ],
+    "DESCRIPTION": "Prevent you would lose HP."
+  },
+  {
+    "NAMES": [
+      "anti-purge defense",
+      "anti-purge_defense"
+    ],
+    "DESCRIPTION": "Prevent you would lose HP. When you Prevent, heal #b5 #yHP."
+  },
+  {
+    "NAMES": [
+      "np damage",
+      "np_damage"
+    ],
+    "DESCRIPTION": "NP Damage adds additional damage to Noble Phantasm attacks."
+  },
+  {
+    "NAMES": [
+      "np rate",
+      "np_rate"
+    ],
+    "DESCRIPTION": "Gain #b100% additional NP."
+  },
+  {
+    "NAMES": [
+      "star",
+      "stars"
+    ],
+    "DESCRIPTION": "At the end of your turn, converts your Stars to #yVigor."
+  },
+  {
+    "NAMES": [
+      "growth"
+    ],
+    "DESCRIPTION": "Growth can prevent the next time you would lose HP equal to amount is at or below."
+  },
+  {
+    "NAMES": [
+      "max hp",
+      "max_hp"
+    ],
+    "DESCRIPTION": "Take damage for you."
+  },
+  {
+    "NAMES": [
+      "magic bullet",
+      "magic_bullets"
+    ],
+    "DESCRIPTION": "Whenever you play a card with Magic Bullet, lose all and deal damage to All enemies equal to #b4 times Magic Bullet."
+  },
+  {
+    "NAMES": [
+      "pretend",
+      "pretended"
+    ],
+    "DESCRIPTION": "At the end of your turn, convert to random card."
+  }
+]
